@@ -23,14 +23,8 @@ a {
 	font-size: 20px;
 }
 
-h4 {
-	font-family: HelveticaBold;
-	font-size: 24px;
-	color: black;
-}
-
-li{
+h6 {
 	font-family: Helvetica;
-	font-size: 18px;
+	font-size: 12px;
 	color: black;
 }
